@@ -1,5 +1,5 @@
 ### Hola, soy Karla 👋 👩‍💻
-![add-gif-3](https://user-images.githubusercontent.com/52334006/126564661-a153f7e4-e917-4569-90ca-fb393ab6e479.gif)
+![add-gif-3-1](https://user-images.githubusercontent.com/52334006/126565506-c61bc18e-2ae8-4191-b4ef-2f8b339f6e0e.gif)
 
 
 
