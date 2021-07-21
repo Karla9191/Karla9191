@@ -1,7 +1,10 @@
-### Hola, soy Karla 👋 
-![github-karlamayorga](https://user-images.githubusercontent.com/52334006/126557419-fdaac83c-a5d1-45bc-8dcc-6aaed2efeee2.gif)
+### Hola, soy Karla 👋 👩‍💻
+![add-gif-2](https://user-images.githubusercontent.com/52334006/126558721-fbfc7963-2f7b-4660-80c7-7330f439ac19.gif)
+
+
 
 <!--
+![github-karlamayorga](https://user-images.githubusercontent.com/52334006/126557419-fdaac83c-a5d1-45bc-8dcc-6aaed2efeee2.gif)
 **Karla9191/Karla9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
