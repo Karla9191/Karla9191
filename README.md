@@ -1,4 +1,6 @@
-### Hola, soy Karla 👋
+### Hola, soy Karla 👋 
+![github-karlamayorga](https://user-images.githubusercontent.com/52334006/126557419-fdaac83c-a5d1-45bc-8dcc-6aaed2efeee2.gif)
+
 <!--
 **Karla9191/Karla9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
