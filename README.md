@@ -1,6 +1,4 @@
-### Hi there 👋
-![banner](github-karlamayorga.mp4)
-
+### Hola, soy Karla 👋
 <!--
 **Karla9191/Karla9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
